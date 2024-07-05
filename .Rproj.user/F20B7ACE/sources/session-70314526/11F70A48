@@ -3,7 +3,7 @@
     "path": "~/Documents/ReactablePlus/man/format_values.Rd",
     "project_path": "man/format_values.Rd",
     "type": "r_doc",
-    "hash": "3681848898",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1717050338650.0,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1717050843,
+    "lastKnownWriteTime": 1717053135,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1717050843711,
+    "last_content_update": 1717053135,
     "read_only": false,
     "read_only_alternatives": []
 }

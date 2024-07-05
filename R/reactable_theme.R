@@ -129,14 +129,14 @@ theme <- function(paddingBottom = "0.5rem", paddingTop = "0.5rem") {
       )
     ),
     headerStyle = list(
-      backgroundColor = "#222",
-      color = "#ccc",
+      backgroundColor = "#f5f5f5", # Açık gri
+      color = "#333333",           # Koyu gri
       borderBottom = "none",
       paddingBottom = "0",
       marginBottom = "0"
     ),
     filterInputStyle = list(
-      backgroundColor = "#4f4f4f",
+      backgroundColor = "#e0e0e0", # Açık gri
       backgroundSize = "1rem",
       marginTop = "-10px",
       marginBottom = "0"
