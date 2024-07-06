@@ -129,14 +129,15 @@ theme <- function(paddingBottom = "0.5rem", paddingTop = "0.5rem") {
       )
     ),
     headerStyle = list(
-      backgroundColor = "#f5f5f5", # Açık gri
+      backgroundColor = "#fdebd3", # Açık gri
       color = "#333333",           # Koyu gri
       borderBottom = "none",
       paddingBottom = "0",
-      marginBottom = "0"
+      marginBottom = "0",
+      font-weight = "bold"
     ),
     filterInputStyle = list(
-      backgroundColor = "#e0e0e0", # Açık gri
+      backgroundColor = "grey", # Açık gri
       backgroundSize = "1rem",
       marginTop = "-10px",
       marginBottom = "0"
@@ -144,6 +145,7 @@ theme <- function(paddingBottom = "0.5rem", paddingTop = "0.5rem") {
     cellStyle = style_()
   )
 }
+
 
 #' Header Style
 #'
