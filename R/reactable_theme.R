@@ -129,7 +129,7 @@ theme <- function(paddingBottom = "0.5rem", paddingTop = "0.5rem") {
       )
     ),
     headerStyle = list(
-      backgroundColor = "#b0b0b0", # Açık gri
+      backgroundColor = "#ddda00", # Açık gri
       color = "#222222",           # Koyu gri
       borderBottom = "none",
       paddingBottom = "0",
@@ -137,7 +137,7 @@ theme <- function(paddingBottom = "0.5rem", paddingTop = "0.5rem") {
       fontWeight = "bold"          # Doğru yazım: fontWeight
     ),
     filterInputStyle = list(
-      backgroundColor = "#c8c8c8", # Hafif pastel mavi (diğer stil öğelerine uygun)
+      backgroundColor = "#bfbfbf", # Hafif pastel mavi (diğer stil öğelerine uygun)
       backgroundSize = "1rem",
       marginTop = "-10px",
       marginBottom = "0"
@@ -145,7 +145,6 @@ theme <- function(paddingBottom = "0.5rem", paddingTop = "0.5rem") {
     cellStyle = style_()
   )
 }
-
 #' Header Style
 #'
 #' This function returns a list of style properties for table headers.
