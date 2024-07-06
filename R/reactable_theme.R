@@ -145,7 +145,6 @@ theme <- function(paddingBottom = "0.5rem", paddingTop = "0.5rem") {
     cellStyle = style_()
   )
 }
-
 #' Header Style
 #'
 #' This function returns a list of style properties for table headers.
