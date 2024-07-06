@@ -134,10 +134,10 @@ theme <- function(paddingBottom = "0.5rem", paddingTop = "0.5rem") {
       borderBottom = "none",
       paddingBottom = "0",
       marginBottom = "0",
-      font-weight = "bold"
+      fontWeight = "bold"          # Doğru yazım: fontWeight
     ),
     filterInputStyle = list(
-      backgroundColor = "grey", # Açık gri
+      backgroundColor = "#e6f7ff", # Hafif pastel mavi (diğer stil öğelerine uygun)
       backgroundSize = "1rem",
       marginTop = "-10px",
       marginBottom = "0"
