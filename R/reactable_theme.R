@@ -25,7 +25,7 @@ box::use(
 #' This variable defines the background color for the reactable theme.
 #'
 #' @export
-bgColor <- "#dddddd"
+bgColor <- "#EDF1FF"
 
 #' Font Size
 #'
@@ -129,8 +129,8 @@ theme <- function(paddingBottom = "0.5rem", paddingTop = "0.5rem") {
       )
     ),
     headerStyle = list(
-      backgroundColor = "#ffb672", # Açık gri
-      color = "#222222",           # Koyu gri
+      backgroundColor = "#6F6A85", # Açık gri
+      color = "#ffffff",           # Koyu gri
       borderBottom = "none",
       paddingBottom = "0",
       marginBottom = "0",
