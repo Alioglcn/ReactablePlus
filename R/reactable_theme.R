@@ -129,7 +129,7 @@ theme <- function(paddingBottom = "0.5rem", paddingTop = "0.5rem") {
       )
     ),
     headerStyle = list(
-      backgroundColor = "#6F6A85", # Açık gri
+      backgroundColor = "#4C4D5D", # Açık gri
       color = "#ffffff",           # Koyu gri
       borderBottom = "none",
       paddingBottom = "0",
