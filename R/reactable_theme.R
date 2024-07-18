@@ -25,7 +25,7 @@ box::use(
 #' This variable defines the background color for the reactable theme.
 #'
 #' @export
-bgColor <- "#EDF1FF"
+bgColor <- "#F7FFFE"
 
 #' Font Size
 #'
@@ -46,14 +46,14 @@ headerFontsize <- "0.9rem"
 #' This variable defines the color for level 1 elements.
 #'
 #' @export
-level1color <- "#B0B0B0"
+level1color <- "#F7FFFE"
 
 #' Level 2 Color
 #'
 #' This variable defines the color for level 2 elements.
 #'
 #' @export
-level2color <- "#D0D0D0"
+level2color <- "#F7FFFE"
 
 #' Level 3 Color
 #'
@@ -88,7 +88,7 @@ level6color <- "#FFFFFF"
 #' This variable defines the background color for filters.
 #'
 #' @export
-filter_bgColor <- "#1c1c1c"
+filter_bgColor <- "#BBD4CE"
 
 #' Font Color for Styles
 #'
@@ -129,7 +129,7 @@ theme <- function(paddingBottom = "0.5rem", paddingTop = "0.5rem") {
       )
     ),
     headerStyle = list(
-      backgroundColor = "#4C4D5D", # Açık gri
+      backgroundColor = "#BBD4CE", # Açık gri
       color = "#ffffff",           # Koyu gri
       borderBottom = "none",
       paddingBottom = "0",
@@ -137,7 +137,7 @@ theme <- function(paddingBottom = "0.5rem", paddingTop = "0.5rem") {
       fontWeight = "bold"          # Doğru yazım: fontWeight
     ),
     filterInputStyle = list(
-      backgroundColor = "#bfbfbf", # Hafif pastel mavi (diğer stil öğelerine uygun)
+      backgroundColor = "#7E9592", # Hafif pastel mavi (diğer stil öğelerine uygun)
       backgroundSize = "1rem",
       marginTop = "-10px",
       marginBottom = "0"
