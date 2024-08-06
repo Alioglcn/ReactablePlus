@@ -19,7 +19,6 @@ box::use(
   reactR,
   reactable.extras,
   htmltools,
-  ReactablePlus,
 )
 
 #' Background Color
