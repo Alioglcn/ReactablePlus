@@ -19,6 +19,7 @@ box::use(
   reactR,
   reactable.extras,
   htmltools,
+  ReactablePlus,
 )
 
 #' Background Color
@@ -255,7 +256,7 @@ customReactable <- function(data, ns, columns, paginateSubRows = TRUE,
       )
     ),
     highlight = highlight,
-    theme = ReactablePlus$theme(),
+    theme = theme(),
     columns = columns,
     ...
   )
