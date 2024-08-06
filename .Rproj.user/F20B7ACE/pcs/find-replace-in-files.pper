@@ -1,6 +1,6 @@
 {
     "dialog-state": {
-        "query": "hello.R",
+        "query": "reactable_theme",
         "path": "",
         "regex": false,
         "caseSensitive": false,
@@ -9,7 +9,7 @@
         "useGitGrep": true,
         "excludeGitIgnore": true,
         "excludeFilePatterns": [],
-        "resultsCount": 0,
+        "resultsCount": 4,
         "errorCount": 0,
         "replaceErrors": "",
         "projectRelative": true
