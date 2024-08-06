@@ -1,7 +1,7 @@
 Package: ReactablePlus
 Type: Package
 Title: Enhanced Reactable Components and Themes for Shiny Applications
-Version: 0.1.0
+Version: 0.2.0
 Author: Ali Ogulcan Et
 Maintainer: Ali Ogulcan Et <ali_ogulcan06@hotmail.com>
 Description: A package to provide enhanced components and themes for reactable tables in Shiny applications.
